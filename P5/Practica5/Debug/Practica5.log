@@ -1,0 +1,5 @@
+﻿  P05-417098656 .cpp
+F:\Users\HP\Documents\Facultad\Semestre 2022-1\CGEIHC\P5\Practica5\Practica5\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+F:\Users\HP\Documents\Facultad\Semestre 2022-1\CGEIHC\P5\Practica5\Practica5\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+F:\Users\HP\Documents\Facultad\Semestre 2022-1\CGEIHC\P5\Practica5\Practica5\P05-417098656 .cpp(23,42): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Practica5.vcxproj -> F:\Users\HP\Documents\Facultad\Semestre 2022-1\CGEIHC\P5\Practica5\Debug\Practica5.exe
