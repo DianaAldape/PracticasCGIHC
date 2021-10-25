@@ -1,0 +1,189 @@
+# Blender MTL File: 'Lamborghini_Gallardo.blend'
+# Material Count: 17
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.342825 0.029620
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\tela.jpg
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\Lamborginhi Aventador_diffuse.jpeg
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.106535 0.106535 0.106535
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\Gris-oxford.jpg
+
+newmtl Material.008
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.384375 0.384375 0.384375
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\images.jpg
+
+newmtl Material.010
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\GT3_TEXTURE_SDC_copie.jpg
+
+newmtl Material.015
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\Lamborginhi Aventador_diffuse.jpeg
+
+newmtl Material.019
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\tela.jpg
+
+newmtl Material.020
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\images.jpg
+
+newmtl Material.021
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Modelos\\textures\\AlcantaraDFS.jpeg
+
+newmtl Material.023
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\Gris-oxford.jpg
+
+newmtl Material.024
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\InteriorDFS.jpeg
+
+newmtl Material.025
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\gris2-300x300.jpg
+
+newmtl Material.026
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\Lamborginhi Aventador_diffuse.jpeg
+
+newmtl Material.027
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\Gris-oxford.jpg
+
+newmtl Material.028
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\images.jpg
+
+newmtl Material.029
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\Gris-oxford.jpg
+
+newmtl Material.030
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd F:\\Users\\HP\\Documents\\Facultad\\Semestre 2022-1\\CGEIHC\\P7\\Practica7\\Practica7\\Textures\\images.jpg
